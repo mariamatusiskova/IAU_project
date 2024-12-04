@@ -17,3 +17,5 @@ notebook
 wandb
 import_ipynb
 category_encoders
+kagglehub
+tensorflow
